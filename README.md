@@ -1,2 +1,2 @@
 # Install
-<video src='https://www.youtube.com/watch?v=Xh22HQOuqZM' width=180/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xh22HQOuqZM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
