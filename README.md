@@ -1,2 +1,2 @@
 # Install
-[![Watch the video]((https://www.youtube.com/watch?v=Xh22HQOuqZM)
+[![Watch the video](https://www.youtube.com/watch?v=Xh22HQOuqZM)
