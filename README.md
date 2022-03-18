@@ -1,2 +1,2 @@
 # Install
-[![Watch the video](https://www.youtube.com/watch?v=Xh22HQOuqZM)
+<video src='https://www.youtube.com/watch?v=Xh22HQOuqZM' width=180/>
