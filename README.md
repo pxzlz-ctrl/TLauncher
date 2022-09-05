@@ -1,5 +1,8 @@
-# TLauncher
-An automatic installer for TLauncher on macOS systems.
+<div align="center">
 
-# Walk through tutorial
-https://www.youtube.com/watch?v=Gu7wuxGw2A4
+<img style="border-radius:50%" height="150px" src="https://tlauncher.org/fav-icon-512.png">
+
+<h1>TLauncher</h1>
+
+<h3>An automatic install for TLauncher on macOS based systems.</h3>
+</div>
