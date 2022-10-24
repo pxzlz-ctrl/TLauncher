@@ -4,5 +4,5 @@
 
 <h1>TLauncher</h1>
 
-<h3>An automatic installer for TLauncher on macOS based systems.</h3>
+<h3>An automatic installer for TLauncher on macOS systems.</h3>
 </div>
